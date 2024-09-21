@@ -41,4 +41,3 @@ The key metrics captured and analyzed in this dashboard include:
 - Incorporating more advanced metrics like customer segmentation and sales forecasting.
 - Automating data updates using Power Query to maintain real-time analysis.
 - Adding deeper insights into market trends through regression analysis and visual storytelling.
-- 
