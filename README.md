@@ -48,3 +48,7 @@ Using these metrics, I have created **7 key charts** focused on KPI analysis and
 ## Conclusion
 
 This dashboard, **DataCruxAnalytics**, offers a clear, interactive way to understand the key performance metrics (KPIs) driving sales and profitability across various markets. With visualizations that range from top-selling products to geographical insights, this project provides a solid foundation for making data-driven decisions in a business context. As an advanced beginner in data analytics, I am continuously expanding the dashboard with more advanced techniques, and I'm excited to see how it can help businesses optimize their performance.
+
+
+## Screenshot
+![Screenshot 2024-09-19 185531](https://github.com/user-attachments/assets/0dad44b3-a97d-4e6a-9d54-7e476764faf3)
