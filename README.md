@@ -51,4 +51,5 @@ This dashboard, **DataCruxAnalytics**, offers a clear, interactive way to unders
 
 
 ## Screenshot
-![Screenshot 2024-09-19 185531](https://github.com/user-attachments/assets/0dad44b3-a97d-4e6a-9d54-7e476764faf3)
+![DashBoarD](https://github.com/user-attachments/assets/dfabebfd-0c05-4e2d-990f-8102dcc88c80)
+
